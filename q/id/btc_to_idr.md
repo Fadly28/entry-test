@@ -24,6 +24,6 @@ Kode dalam jawaban diharapkan ditulis dengan menggunakan bahasa javascript yang 
 
 [switch to english](../en/btc_to_idr.md)
 [**](/tags/**.md)
-[front-end](tags/front-end.md)
-[API](tags/API.md)
+[front-end](tags/front-end.md) 
+| [API](tags/API.md) 
 

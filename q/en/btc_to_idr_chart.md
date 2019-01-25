@@ -27,6 +27,6 @@ The code in the answer are expected to be written in javascript that can be run 
 
 [ganti ke bahasa Indonesia](../id/btc_to_idr_chart.md)
 [***](/tags/***.md)
-[front-end](tags/front-end.md)
-[API](tags/API.md)
+[front-end](tags/front-end.md) 
+| [API](tags/API.md) 
 
