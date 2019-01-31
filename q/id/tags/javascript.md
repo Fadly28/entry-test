@@ -1,6 +1,5 @@
-# ***
+# javascript
 
 ---
 
 [saphala](../saphala.md) 
-| [tutohi](../tutohi.md) 

@@ -8,15 +8,18 @@ Please pick questions that you like to answer and follow the guidelines on how t
 
 ### Browse questions by tags
 
-[front-end](q/en/tags/front-end.md) 
+[algorithm](q/en/tags/algorithm.md) 
+| [front-end](q/en/tags/front-end.md) 
 | [API](q/en/tags/API.md) 
-| [algorithm](q/en/tags/algorithm.md) 
+| [javascript](q/en/tags/javascript.md) 
+| [OOP](q/en/tags/OOP.md) 
 
 ### All questions
 
-[btc_to_idr](q/en/btc_to_idr.md) 
-| [btc_to_idr_chart](q/en/btc_to_idr_chart.md) 
-| [holes_in_number](q/en/holes_in_number.md) 
+[furos](q/en/furos.md) 
+| [palitan](q/en/palitan.md) 
+| [saphala](q/en/saphala.md) 
+| [tutohi](q/en/tutohi.md) 
 
 ---
 

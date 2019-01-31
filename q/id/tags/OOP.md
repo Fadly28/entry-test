@@ -1,6 +1,5 @@
-# ***
+# OOP
 
 ---
 
 [saphala](../saphala.md) 
-| [tutohi](../tutohi.md) 
