@@ -2,4 +2,4 @@
 
 ---
 
-[saphala](../saphala.md) 
+[blanda](../blanda.md) 

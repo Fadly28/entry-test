@@ -1,4 +1,4 @@
-# Tutohi
+# Karta
 
 ---
 
@@ -17,14 +17,15 @@ Using these two APIs please build a web page that output the live chart price of
 
 ###### Expected Output
 
-<p><sub>We expect the answer for this question in a form of file. Please name the file "tutohi.html". You can attach the file directly on the email or put it together with other file into a compressed zip or rar file. The file is expected able to be run normally on latest version of chrome and firefox. If you use third party library, link it in the html, don't put it with the answer</sub></p>
+<p><sub>We expect the answer for this question in a form of file. Please name the file "karta.html". You can attach the file directly on the email or put it together with other file into a compressed zip or rar file. The file is expected able to be run normally on latest version of chrome and firefox. If you use third party library, link it in the html, don't put it with the answer</sub></p>
 
 <p><sub>The code in the answer are expected to be written in javascript that can be run in latest version of chrome or firefox.</sub></p>
 
 ---
 
-[ganti ke bahasa Indonesia](../id/tutohi.md)
-[***](/tags/***.md)
+[ganti ke bahasa Indonesia](../id/karta.md)
+
 [front-end](tags/front-end.md) 
 | [API](tags/API.md) 
+| [Intermediate](tags/Intermediate.md) 
 

@@ -1,6 +1,6 @@
-# API
+# Easy
 
 ---
 
-[karta](../karta.md) 
+[hal](../hal.md) 
 | [skifta](../skifta.md) 

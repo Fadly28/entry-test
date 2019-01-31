@@ -1,6 +1,6 @@
-# OOP
+# Basic
 
 ---
 
-[blanda](../blanda.md) 
+[enda](../enda.md) 
 | [rakna](../rakna.md) 

@@ -1,4 +1,4 @@
-# Furos
+# Hal
 
 ---
 
@@ -21,13 +21,14 @@ contoh output:
 ###### Expected Output
 
 <p><sub>Kami mengharapkan jawaban dalam bentuk algoritma atau program tertulis yang hanya menggunakan fitur dasar dari bahasa pemrograman, tidak menggunakan library eksternal, atau fitur spesifik dari sebuah bahasa pemrograman yang bukan merupakan fitur universal dari semua bahasa pemrograman.</sub></p>
-<p><sub>Anda dapat menulis jawaban langsung di e-mail, digabung dengan jawaban lain di sebuah file jawaban (dalam format doc atau pdf), atau dilampirkan sebagai file. Tolong tulis id referensi dari pertanyaan yaitu "furos"</sub></p>
+<p><sub>Anda dapat menulis jawaban langsung di e-mail, digabung dengan jawaban lain di sebuah file jawaban (dalam format doc atau pdf), atau dilampirkan sebagai file. Tolong tulis id referensi dari pertanyaan yaitu "hal"</sub></p>
 
 <p><sub>Kode dalam jawaban diharapkan ditulis dengan menggunakan bahasa pemrograman apapun yang mudah dibaca dan dimengerti.</sub></p>
 
 ---
 
-[switch to english](../en/furos.md)
-[**](/tags/**.md)
+[switch to english](../en/hal.md)
+
 [algorithm](tags/algorithm.md) 
+| [Easy](tags/Easy.md) 
 

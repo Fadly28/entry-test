@@ -8,18 +8,24 @@ Please pick questions that you like to answer and follow the guidelines on how t
 
 ### Browse questions by tags
 
-[algorithm](q/en/tags/algorithm.md) 
+[javascript](q/en/tags/javascript.md) 
+| [OOP](q/en/tags/OOP.md) 
+| [algorithm](q/en/tags/algorithm.md) 
 | [front-end](q/en/tags/front-end.md) 
 | [API](q/en/tags/API.md) 
-| [javascript](q/en/tags/javascript.md) 
-| [OOP](q/en/tags/OOP.md) 
+| [syntax](q/en/tags/syntax.md) 
+| [Intermediate](q/en/tags/Intermediate.md) 
+| [Basic](q/en/tags/Basic.md) 
+| [Easy](q/en/tags/Easy.md) 
 
 ### All questions
 
-[furos](q/en/furos.md) 
-| [palitan](q/en/palitan.md) 
-| [saphala](q/en/saphala.md) 
-| [tutohi](q/en/tutohi.md) 
+[blanda](q/en/blanda.md) 
+| [enda](q/en/enda.md) 
+| [hal](q/en/hal.md) 
+| [karta](q/en/karta.md) 
+| [rakna](q/en/rakna.md) 
+| [skifta](q/en/skifta.md) 
 
 ---
 

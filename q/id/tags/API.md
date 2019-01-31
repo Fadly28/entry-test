@@ -2,5 +2,5 @@
 
 ---
 
-[palitan](../palitan.md) 
-| [tutohi](../tutohi.md) 
+[karta](../karta.md) 
+| [skifta](../skifta.md) 
