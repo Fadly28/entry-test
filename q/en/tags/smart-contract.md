@@ -1,8 +1,7 @@
-# Intermediate
+# smart-contract
 
 ---
 
-[blanda](../blanda.md) 
+[bereitstellen](../bereitstellen.md) 
 | [interagieren](../interagieren.md) 
-| [karta](../karta.md) 
 | [test-vertrag](../test-vertrag.md) 

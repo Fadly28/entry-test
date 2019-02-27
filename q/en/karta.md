@@ -9,13 +9,13 @@ Take a look at these API urls:
 Take a look as these chart example
 [USDEUR live chart](https://www.dailyfx.com/charts)
 
-### Task
+## Task
 
 Using these two APIs please build a web page that output the live chart price of Bitcoin in IDR like the example (doesn't need to be as sophisticated as that, but support live price updates)
 
 ---
 
-###### Expected Output
+### Expected Output
 
 <p><sub>We expect the answer for this question in a form of file. Please name the file "karta.html". You can attach the file directly on the email or put it together with other file into a compressed zip or rar file. The file is expected able to be run normally on latest version of chrome and firefox. If you use third party library, link it in the html, don't put it with the answer</sub></p>
 

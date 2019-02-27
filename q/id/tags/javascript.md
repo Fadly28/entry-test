@@ -2,5 +2,6 @@
 
 ---
 
-[blanda](../blanda.md) 
+[alfred](../alfred.md) 
+| [blanda](../blanda.md) 
 | [rakna](../rakna.md) 

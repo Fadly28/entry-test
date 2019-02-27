@@ -10,13 +10,13 @@ function f(x){
 }
 ```
 
-### Task
+## Task
 
 What is the code trying to do? explain!
 
 ---
 
-###### Expected Output
+### Expected Output
 
 <p><sub>We expect the answer are in the form of concise but detailed explanation about the problem</sub></p>
 <p><sub>You can put the answer directly in e-mail body, compile it with other answer into an answer file (in doc or pdf format), or attach as a file. Please put the reference to the question id of "rakna"</sub></p>

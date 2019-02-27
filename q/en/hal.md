@@ -8,7 +8,7 @@ Putting the numbers together to form a multi-digits numbers, we can also count t
 
 Let us call this hole counting function as ***count_hole***
 
-### Task
+## Task
 
 Please create the algorithm of this ***count_hole*** function, and using it please create a simple program that will loop from 1 to 1000, and on each iteration prints the number of "holes" if the number have "holes", or the number itself if it doesn't have "holes".
 
@@ -18,7 +18,7 @@ example output:
 
 ---
 
-###### Expected Output
+### Expected Output
 
 <p><sub>We expect the answer are in the form of written program or algorithm that only use basic functions of a program language, and not use third party library, or specific feature of programing language that are not a universal feature.</sub></p>
 <p><sub>You can put the answer directly in e-mail body, compile it with other answer into an answer file (in doc or pdf format), or attach as a file. Please put the reference to the question id of "hal"</sub></p>
